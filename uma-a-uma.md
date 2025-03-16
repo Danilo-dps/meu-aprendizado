@@ -1,0 +1,17 @@
+ RestTemplate
+ RequestConfig
+ PoolingHttpClientConnectionManagerBuilder
+ CloseableHttpClient
+ HttpComponentsClientHttpRequestFactory
+ Logger
+ ResponseEntity
+ HttpClient
+ HttpClient
+ HttpResponse
+ Breed
+ HttpClientErrorException
+ ObjectMapper
+ JsonNode
+ HttpMethod
+ Image
+ Collections
