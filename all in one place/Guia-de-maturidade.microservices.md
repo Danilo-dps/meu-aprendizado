@@ -1,8 +1,6 @@
----
-
 # Guia de Maturidade de Microservices
 
-Este guia é focado em como alcançar um nível avançado de maturidade nos seus microservices utilizando diversas tecnologias do ecossistema Spring. Ele cobre configurações essenciais e melhores práticas para os principais componentes do sistema, incluindo API Gateway, Service Registry, Circuit Breaker, Config Server, Observabilidade e Spring Cloud Stream.
+- Este guia é focado em como alcançar um nível avançado de maturidade nos seus microservices utilizando diversas tecnologias do ecossistema Spring. Ele cobre configurações essenciais e melhores práticas para os principais componentes do sistema, incluindo API Gateway, Service Registry, Circuit Breaker, Config Server, Observabilidade e Spring Cloud Stream.
 
 ---
 
